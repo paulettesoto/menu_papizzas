@@ -1,0 +1,1 @@
+web: gunicorn menu_papizzas.wsgi
